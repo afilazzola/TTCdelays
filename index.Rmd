@@ -6,7 +6,7 @@ output: html_document
 ---
 
 
-Data provided since January 2014 to April 2017 within the TTC subway system. There are approximately 69,000 delay incidents that beong to 187 categoires. A summary of the findings can be found by the Toronto Star: https://www.thestar.com/news/gta/2017/06/12/whats-keeping-that-train-the-ttc-has-69000-reasons-why.html
+Data provided since January 2014 to April 2017 within the TTC subway system. There are approximately 69,000 delay incidents that beong to 187 categoires. A summary of the findings can be found by the [Toronto Star](https://www.thestar.com/news/gta/2017/06/12/whats-keeping-that-train-the-ttc-has-69000-reasons-why.html)
 
 ![](TTCimage.jpg)
 ```{r warning=FALSE, message=FALSE}
